@@ -22,9 +22,7 @@ Here's how to play:
 
 ## Screenshots:
 
-![Screenshot of the game's main menu or gameplay](insert-screenshot-url-here)
-
-![GIF showcasing a key game moment](insert-gif-url-here)
+![Screenshot of the game's main menu or gameplay](https://github.com/SahajIVVIX-1/Digital-Cricket-Java/blob/initial/vlcsnap-2024-08-31-23h29m52s894.png)
 
 ## Contributions Are Welcome!
 
